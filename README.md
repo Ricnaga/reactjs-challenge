@@ -1,5 +1,3 @@
-#Desafio ReactJS
-
 #### <div align="right">- Projeto Finalizado <div>
 # <div align="center">Desafio ReactJS <div>
 ## <div align="center">Desafio ReactJS que simula uma API<div>
